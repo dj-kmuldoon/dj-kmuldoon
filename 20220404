@@ -27,14 +27,16 @@
 REST OF DAY...
   Setup 1:1 with Ellis Capon for tomorrow morning
   Catchup with Tina @3PM
-  More in-depth with Jetpack, https://www.youtube.com/watch?v=qvDo0SKR8-k (I don't know if/how StyleDictionary integrates with this. Discovery process).
+  Research more in-depth with Jetpack, https://www.youtube.com/watch?v=qvDo0SKR8-k (I don't know if/how StyleDictionary integrates with this. 
+  Discovery process). NOTE: Very strange mix of Model/View/Controller. Don't think this is supported by StyleDictionary.
   Sent invite to Tina on Vision of Unified Design System.
   Meeting with Amy – her perspective on the combo of Factiva/NewsKit. Where they align and diverge.
   
   
 THOUGHTS/OBSERVATIONS
-  Are thinking of the Design System as simply a collection of components. This is useful and important but shouldn't a design system allow users
+  1. Are we thinking of the Design System as simply a collection of components? Components are useful and very important but shouldn't a design system allow users
   freedom to create their own designs? DataViz, infographics, illustrations. Hero pages? 
+  2. Is it valuable to create a color ramp generator for Dow Jones? Much like Material Design? https://material.io/resources/color/#!/?view.left=0&view.right=0&primary.color=6002ee
   
 ACCESS REQUEST
   Like to get full access to all brands Dow Jones supports on web/mobile.
