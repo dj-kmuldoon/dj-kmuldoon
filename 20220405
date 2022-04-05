@@ -1,3 +1,34 @@
 9:00AM - Looked through WorkDay Org Chart
-        Replied to Interface Inventory question from Tina (Live Coverage vs. Newsletter Sign-up)
-9:30AM - 1:1 with Ellis Capon, Snr. Product Manager - NewsKit Design System, NewsKit API.
+        Replied to Interface Inventory question from Tina (Live Coverage vs. Newsletter Sign-up).
+                • We think they are two different components
+        
+9:30AM - MEETING: 1:1 with Ellis Capon, Snr. Product Manager - NewsKit Design System, NewsKit API.
+        (Internet issues. Ellis will reschedule next week)
+        
+• Reached out to Subhankar Paul for shadowing via Slack. 
+        –SP: "I am going to booking some slot tomorrow onwards..."
+• Reviewed 'Design System Training - planning doc' https://docs.google.com/document/d/1O_F5AvcgYkILNrQVDz-4pCYfB2lR9pyUFtwAWSNkKkg/edit        
+        
+10:00AM - MEETING: NewsKit Design System - Design drop in clinic.
+                • Asked for access to Figma Plugin code in GitHub. Luke Finch https://www.figma.com/@Finch is the man. 
+                • NK said they'd follow up and connect Luke and myself for access.
+        – Setup 1:1 with Mike Messina for tomorrow
+        
+11:00AM – MEETING: Component tasks
+        – Create a Figma implementation on Newsletter signup (Will hold until connect with Surendar to get best practises)
+        – How to document components. What platform? 
+                • Storybook (Possibly!)
+                • Confluence (Users say too complicated)
+                • ZeroHeight (Great, but expensive. $49 per editor. No budget.)
+                • Jira (Free. Need to setup team and access permissions. May not be visible to everyone.)
+                • Miro (Not sure if right tool)
+                • supernova.io (Similar to ZeroHeight, but cheaper. $25 per editor. Not quite as nice for documentation.)
+                • Notion (Very affordable) https://www.notion.so/product/notion-for-design
+        
+11:30AM – MEETING: NK-Popover Component Chat
+        – NK connects with Designers and multi-brand Design System on popover component.
+        
+• Sent suggestions for platforms used to document components to Tina.
+• Begining creating 'Newsletter signup' component
+        
+        
