@@ -1,3 +1,11 @@
+~ TASKS
+    – Reach out to Amy on Grids. (COMPLETE)
+    – Make video explaining Style Dictionary and tokens, how it helps mobile. (TBD)
+    – Create "Newsletter Sign-up" component in Figma. (QUESTION ON WHO IS RESPONSIBLE FOR CREATION, WHERE TO CREATE IT)
+    – Involve Jason Ferreira in "Newslettter Sign-up" component. (TBD)
+    – Install 'Theme Swapper' plug-in
+
+
 9:00AM – MEETING 1:1 Kevin/James Newsome 
     • RESCHEDULED, James meeting ran over.
     
@@ -12,22 +20,62 @@
     • Has been working on NewsKit since near beginning of project
     • Does not have visiblity to Dow Jones implementation of NewsKit
     • No longer has access to Factiva (but did at one time)
-    • There are no tokens generated for mobile native in NewsKit
+    • Today, no tokens generated for mobile native in NewsKit
         – Luke and PCX have been thinking about this
-    • StyleDictionary is not being used
+    • All tokens generated with custom programming created by NewsKit. 
+    • JSON/StyleDictionary not being used. 
 
 10:00AM - MEETING CHECK-IN TINA
+    • Briefly went over StyleDictionary tokens, how they are not being used today by NK
+    • Without StyleDictionary, difficult to support Mobile native platforms. Must be custom coded by NK.
+    • Tina to reach out and to Mobile, see how we can work together on solution (rather than apart).
     • TASKS
-        – Reach out to Amy on Grids, 
+        – Reach out to Amy on Grids. 
         – Think about how to work with mobile, 
         – Make video explaining Style Dictionary and tokens.
+        – Create "Newsletter Sign-up" component in Figma.
         
-10:30AM - MEETING w/ Jason Ferreira (A11y engineer
+10:30AM - MEETING w/ Jason Ferreira (A11y Engineer)
     • Jason does a lot of training and gives recommendations. He reports to Helen.
-    • Has some experience with Mobile accessibility, not a lot
+    • Has experience with programming, but not a day-to-day activity for him.
+    • Has some experience with Mobile accessibility. Mentions David Shen leading (sp?)
     • WSJ trying to get away from web views, new programming initiative.
     • Q: How should UDS work with you to acheive A11y goals? A: Reach out early often!
     • Today, we only have Jason in A11y. He hopes to grow A11y team.
     • Would like to be involved in Dev Handoffs.
     • TASKS
         – Involve Jason Ferreira in "Newslettter Sign-up" component.
+        
+11:30AM - MEETING "Catchup - Kevin/Subhankar" (CANCELLED)
+    • Moved to 1:45PM
+    
+• Reach out to Amy on Grids (Slack).
+• Jason Ferreira reached out on Slack and shared an A11y article from NewsKit (https://marcovanali.medium.com/changing-the-team-process-to-improve-web-accessibility-a11y-e9733bb14150)
+• I shared w/ Jason Ferreira – "How should you name colors in a design system" article 
+• Received 'Design System Training March 2022' deck
+
+1:00PM – Met with Amy on Grids, Newsletter-Signup component. Where to put components for publishing.
+    • WSJ is not using NK/Factiva-WSJ Figma libraries.
+        – What Figma file will we put 'Newsletter Sign-up' component for publishing?
+    • QUESTION: Is Amy responsible for building the component. Myself? We collaborate? (We were thinking collaborate).
+    • Discovered the Unified Design System initiative is only a few months old, according to Amy.
+    • Amy mentions that the 'Theme Swapper' plug-in has a special setup unique for Dow Jones.
+    
+• Amy shares a 'Theme Swapper Setup' document with me via Slack (https://docs.google.com/document/d/1T220WVvFAmvkRUx3p_tyZVc5xzeUMYKbzlJIukwRsJg/edit)
+
+1:45PM – MEETING "Catchup - Kevin/Subhankar"
+    • A wide ranging chat on questions and verifying observations I've made.
+        – Q: NewsKit does not support mobile native tokens? A: No.
+        – Subh says our team does not build Figma components. That is responsibility of UX-D.
+        – Shared w/ Subh that WSJ does not use NK/Factiva (according to Amy). He says he'll bring that up with Tina.
+        – Subh to arrange time for shadowing tomorrow.
+        
+• Will attempt to spin-up Theme Swapper plug-in, with documentation Amy provided.
+        
+        
+        
+        
+        
+
+
+
