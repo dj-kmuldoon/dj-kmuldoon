@@ -5,3 +5,29 @@
 • Joined JIRA Team, "Archana Thota has invited you to collaborate on newscorp"
 • Received full set of Dow Jones Fonts from Amy
 • Slacked request on Newskit-dowjones-support for Theme plugin
+• Figma file 'WSJ App Components: Design Swarm' appears to use different fonts?
+
+9:30AM - MEETING 1:1 Kevin/James 
+    • James is a contractor
+    • Has been working on NewsKit since near beginning of project
+    • Does not have visiblity to Dow Jones implementation of NewsKit
+    • No longer has access to Factiva (but did at one time)
+    • There are no tokens generated for mobile native in NewsKit
+        – Luke and PCX have been thinking about this
+    • StyleDictionary is not being used
+
+10:00AM - MEETING CHECK-IN TINA
+    • TASKS
+        – Reach out to Amy on Grids, 
+        – Think about how to work with mobile, 
+        – Make video explaining Style Dictionary and tokens.
+        
+10:30AM - MEETING w/ Jason Ferreira (A11y engineer
+    • Jason does a lot of training and gives recommendations. He reports to Helen.
+    • Has some experience with Mobile accessibility, not a lot
+    • WSJ trying to get away from web views, new programming initiative.
+    • Q: How should UDS work with you to acheive A11y goals? A: Reach out early often!
+    • Today, we only have Jason in A11y. He hopes to grow A11y team.
+    • Would like to be involved in Dev Handoffs.
+    • TASKS
+        – Involve Jason Ferreira in "Newslettter Sign-up" component.
