@@ -2,7 +2,7 @@
     – Make video explaining Style Dictionary and tokens, how it helps mobile. (DONE)
     – Involve Jason Ferreira in "Newslettter Sign-up" component. (Amy to reach out)
     – Connect for 1:1 with Surendar, ask about Rolls Royce DS. (DONE)
-    – Setup "Theme Swapper" plugin. (Starting to wonder why we have a Slack channel for dk-dowjones-support ;-) )
+    – Setup "Theme Swapper" plugin. (...)
 
 8:00AM 
   • Worked on getting "Theme Swapper" working with access permissions
@@ -20,7 +20,6 @@
         
 10:00AM
     • Updating StyleDictionary in prep for demo/video
-    •
     
 10:30AM
     • MEETING: "Settings - Interests/Alerts" w/ Scott Jones
@@ -48,6 +47,11 @@
 1:00PM
     • Shared video on StyleDictionary w/Tina. Why important for mobile (and anything really).
     • Shared video on one approach to naming responsive typography in Figma with Amy/Tina
+        – Amy likes! Says she'll research DJ to find how many sizes for responsive typography required.
+    • Marco Vanali shares a spike sprint where he investigated integrating style-dictionary and NK. Very comprehensive ReadMe.md file here.
+        – https://github.com/Vanals/Figma-tokens-to-theme
+        – CONCLUSION: "Style dictionary...allows us to transform a Figma tokens object into different formats which can make our 
+                life easier in the future when supporting multiple types of applications. The best thing tho is that we can create our own formatter." -MV
         
 3:00PM
     • MEETING: "Vision for Unified Design System" w/ Tina
