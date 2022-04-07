@@ -46,21 +46,31 @@
             • Will reconnect Monday
 1:00PM
     • Shared video on StyleDictionary w/Tina. Why important for mobile (and anything really).
-    • Shared video on one approach to naming responsive typography in Figma with Amy/Tina
+    • Shared video on an approach I created to naming responsive typography in Figma with Amy/Tina
         – Amy likes! Says she'll research DJ to find how many sizes for responsive typography required.
-    • Marco Vanali shares a spike sprint where he investigated integrating style-dictionary and NK. Very comprehensive ReadMe.md file here.
+    • Marco Vanali shares a spike sprint where he investigated integrating style-dictionary and NK. Very comprehensive ReadMe.md file.
         – https://github.com/Vanals/Figma-tokens-to-theme
         – CONCLUSION: "Style dictionary...allows us to transform a Figma tokens object into different formats which can make our 
                 life easier in the future when supporting multiple types of applications. The best thing tho is that we can create our own formatter." -MV
+        – OBSERVATION: I'm not convinced on the conclusion. This should be doable. Suspect solution was approached to fit DK rather than DK fitting StyleDictionary. Right now, can't be 100% sure.
+            • https://dbanks.design/blog/dark-mode-with-style-dictionary/
+    • Slacked Amy if she found any info on differently named fonts.
+        – (Amy Nailor  2:08 PM) no, i ran it past Forest Evashevski, wsj design director and active in that file, I think it does come down to a naming difference because he confirmed that I have all the correct fonts
+            
         
 3:00PM
     • MEETING: "Vision for Unified Design System" w/ Tina
-        –
-        –
-        –
+        – TASK: Pair Design with Amy on new component "newsletter signup"
+        – Vision of DS? DESIGN ALL THE THINGS! WORLD DOMINATION. B2C, Figma, Powerpoint. We only get better the more we use it.
+        –  Orig thought was FACTIVA would be the POC, but 80% had to be newly created. Diff between B2B and B2C.
+        – Factiva-NK enjoyed a 40% increase in engineering velocity.
+        – Should we have a generic theme? (not sure, but does have advantage in a DSM. Single page, not multiple)
+        – Possibly tackle 'Alerts'
+        – Experience Academy, position as thought-leader. Tina can help navigate.
     
 4:00PM
     • MEETING: "Catch up w. Sebastian & co" w/ Tina & Sebastian Vidal
-        –
-        –
-        –        
+        – Naming ,naming, naming
+        – Sebastian says he'll share discoveries on naming.
+        – Mobile team decideds on Flutter x-platform framework for Android, iOS
+        – We'll have ONE look/feel between platforms! Good news.
