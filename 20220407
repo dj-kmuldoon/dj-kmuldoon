@@ -1,8 +1,8 @@
 ~ TASKS
-    – Make video explaining Style Dictionary and tokens, how it helps mobile. (TBD)
-    – Involve Jason Ferreira in "Newslettter Sign-up" component. (TBD)
-    – Connect for 1:1 with Surendar, ask about Rolls Royce DS. 
-    – "Theme Swapper" plugin
+    – Make video explaining Style Dictionary and tokens, how it helps mobile. (DONE)
+    – Involve Jason Ferreira in "Newslettter Sign-up" component. (Amy to reach out)
+    – Connect for 1:1 with Surendar, ask about Rolls Royce DS. (DONE)
+    – Setup "Theme Swapper" plugin. (Starting to wonder why we have a Slack channel for dk-dowjones-support ;-) )
 
 8:00AM 
   • Worked on getting "Theme Swapper" working with access permissions
@@ -34,12 +34,20 @@
         – I brought up the interactive 'unsubscribe' display when unsubscribing via toggle/switch in "Newsletter sign-up". She was aware and will do research today on different brands.
         – Amy asks about scalable text for mobile or compressed responsive treatments. She used to have a Sketch plug-in that handled this. Hmmm!
         – Amy helps me understand the text-field assistive text is not a varient, but set in layers. Explains why Scott had friction. I'd like to make that a varient to prevent in future.
+        – Amy asks for any thoughts/ideas on scalable text. Naming and implimentation.
     
 12:00PM
     • MEETING: "1:1 Kevin/Surendar" w/Surendar Selvaraj
-        –
-        –
-        –
+        – Very passionate about Design Systems.
+        – Q: "What do you think of NK?" A: "It doesn't seem to fit needs of Dow Jones"
+        – Q: "Tell me about RR design system"
+            • He advocated for a full design system, rather than a simple style guide.
+            • Familiar with Lightning-Salesforce. WCAG compliance.
+            • I shared my color article. 
+            • Will reconnect Monday
+1:00PM
+    • Shared video on StyleDictionary w/Tina. Why important for mobile (and anything really).
+    • Shared video on one approach to naming responsive typography in Figma with Amy/Tina
         
 3:00PM
     • MEETING: "Vision for Unified Design System" w/ Tina
