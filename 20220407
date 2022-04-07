@@ -25,14 +25,15 @@
 10:30AM
     • MEETING: "Settings - Interests/Alerts" w/ Scott Jones
         – TOPIC: Meeting to review the new settings component for interests and alerts and align before handoff on Friday. 
-        –
-        –    
+        – Subh invited me to this so I get a sense of how Factiva interacts with the larger organization
+        – Interesting 'bug' in NK with text fields. Hard to call it a bug, but Scott found friction when attempting to display assistive text underneath text-field.
     
 11:00AM
     • MEETING: "Weekly Touchbase" w/ Amy Nailor
-        –
-        –
-        –    
+        – Amy will reach out to Jason A11y
+        – I brought up the interactive 'unsubscribe' display when unsubscribing via toggle/switch in "Newsletter sign-up". She was aware and will do research today on different brands.
+        – Amy asks about scalable text for mobile or compressed responsive treatments. She used to have a Sketch plug-in that handled this. Hmmm!
+        – Amy helps me understand the text-field assistive text is not a varient, but set in layers. Explains why Scott had friction. I'd like to make that a varient to prevent in future.
     
 12:00PM
     • MEETING: "1:1 Kevin/Surendar" w/Surendar Selvaraj
