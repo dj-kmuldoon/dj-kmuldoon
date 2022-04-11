@@ -1,12 +1,15 @@
 ~ TASKS
-    – TASK: Setup "Theme Swapper" plugin. (DONE)
+    – TASK: Setup "Theme Swapper" plugin. [DONE]
     – TASK: Setup Daily Standups (Amy, Suren, Tina, Gabrella) [DONE]    
-    – TASK: MINI SPIKE: Find way to get functionality of 'Text Cropper' and maintain responsive behavior in Figma [needs addt'l plugin]
-    – TASK: Invite Ellis to "Newsletter Sign-up" component [TOMORROW]
-    – TASK: Lets migrate users to seperate file "Newsletter Sign-up" -> WIP 
-    – TASK: Get 1:1 with James Spensor & Luke Finch    
     – TASK: Is Flexbox and Grid the same tech? Review approach. [DONE]
-    – TASK: Touchbase with Vincent on Mobile build styles.    
+    
+    – TASK: Lets migrate users to seperate file "Newsletter Sign-up" -> [WIP]
+    
+    – TASK: Touchbase with Vincent on Mobile build styles. [MEETING TOMORROW]
+    – TASK: Get 1:1 with James Spensor & Luke Finch
+    – TASK: Share w/ Ellis to "Newsletter Sign-up" component [TOMORROW]    
+    – TASK: MINI SPIKE: Find way to get functionality of 'Text Cropper' and maintain responsive behavior in Figma [needs addt'l plugin]    
+
 
 9:00AM
   • Meeting: 1:1 w/ Ellis Capon, Snr. Product Manager NewsKit
@@ -68,6 +71,8 @@
         • CSS Grid works in 2 dimensions rather than just one. Both horizontal and vertical 'cells' or grids.
         • Deeper dive if interested... https://webdesign.tutsplus.com/articles/flexbox-vs-css-grid-which-should-you-use--cms-30184
         
+• [TASK] Touchbase with Vincent on Mobile build styles. [MEETING TOMORROW]        
+• [TASK] 1:1 w/ James Spensor & Luke Finch [MEETING WEDNESDAY,  DS-UDS/DK Technology touch-base ]
         
     
         
