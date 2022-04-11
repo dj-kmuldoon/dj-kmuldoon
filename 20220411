@@ -1,11 +1,11 @@
 ~ TASKS
-    – Setup "Theme Swapper" plugin. (DONE)
+    – TASK: Setup "Theme Swapper" plugin. (DONE)
     – TASK: Setup Daily Standups (Amy, Suren, Tina, Gabrella) [DONE]    
     – TASK: MINI SPIKE: Find way to get functionality of 'Text Cropper' and maintain responsive behavior in Figma [needs addt'l plugin]
     – TASK: Invite Ellis to "Newsletter Sign-up" component [TOMORROW]
     – TASK: Lets migrate users to seperate file "Newsletter Sign-up" -> WIP 
     – TASK: Get 1:1 with James Spensor & Luke Finch    
-    – TASK: Is Flexbox and Grid the same tech? Review approach.
+    – TASK: Is Flexbox and Grid the same tech? Review approach. [DONE]
     – TASK: Touchbase with Vincent on Mobile build styles.    
 
 9:00AM
@@ -60,6 +60,15 @@
             • TASK: Ask Richard how it works.
         – Amy agrees to get Paul onboard
         – Let team know we should share "Newsletter Sign-up" w/ NK, whereever we are soon. Keep them in loop.
-        – Suren clarifies use of "Popover" in contet of "Newsletter Sign-up" component, unsubcribe verify state
+        – Suren clarifies use of "Popover" in context of "Newsletter Sign-up" component, unsubcribe verify state. Just technology, not 'UX'
+        
+• [TASK] Is Flexbox and Grid the same tech? "Flexbox and CSS Grid are two CSS layout modules that have become mainstream in recent years. Both allow us to create complex layouts that were previously only possible by applying CSS hacks and/or JavaScript. Flexbox and CSS Grid share multiple similarities and many layouts can be solved with both."
+    – TL;DR - They are different CSS modules, could be combined.
+        • Flexbox lays out elements in one direction (horizontal "row-based" or vertical "column-based"), though you could nest to create a desired effect.
+        • CSS Grid works in 2 dimensions rather than just one. Both horizontal and vertical 'cells' or grids.
+        • Deeper dive if interested... https://webdesign.tutsplus.com/articles/flexbox-vs-css-grid-which-should-you-use--cms-30184
+        
+        
+    
         
 
