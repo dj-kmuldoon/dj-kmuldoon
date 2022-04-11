@@ -1,10 +1,10 @@
 ~ TASKS
     – Setup "Theme Swapper" plugin. (DONE)
-    – TASK: MINI SPIKE: Find way to get functionality of 'Text Cropper' and maintain responsive behavior in Figma (DONE, needs addt'l plugin)
-    – TASK: Get 1:1 with James Spensor & Luke Finch
-    – TASK: Invite Ellis to "Newsletter Sign-up" component
-    – TASK: Setup Daily Standups (Amy, Suren, Tina, Gabrella)
-    – TASK: Interface Inventory Figma file is 'blowing up'. Lets migrate users to seperate file "Newsletter Sign-up" -> WIP
+    – TASK: Setup Daily Standups (Amy, Suren, Tina, Gabrella) [DONE]    
+    – TASK: MINI SPIKE: Find way to get functionality of 'Text Cropper' and maintain responsive behavior in Figma [needs addt'l plugin]
+    – TASK: Invite Ellis to "Newsletter Sign-up" component [TOMORROW]
+    – TASK: Lets migrate users to seperate file "Newsletter Sign-up" -> WIP 
+    – TASK: Get 1:1 with James Spensor & Luke Finch    
     – TASK: Is Flexbox and Grid the same tech? Review approach.
     – TASK: Touchbase with Vincent on Mobile build styles.    
 
@@ -40,3 +40,20 @@
     – He's been with NewsKit for 1 year.
     – Explains three major tech to make NK function. Themer, Renderer, API
     – Subbrand of Times, "Times Travel" hired outside agency to integrate NK.
+    
+    
+• Scheduled Daily Standup Meeting    
+• @richard – "I think the plug-in I'm thinking about is called "Crop Page"? Might need assistance getting that to run properly."
+• Reached out to Amy about "TASK: Lets migrate users to seperate file "Newsletter Sign-up" -> WIP"
+    – I'm not sure where she is at, so don't want to migrate until I know.
+    
+1:00PM
+    • MEETING: Article Pgm - Weekly Planning Session
+        – Project Management
+        – Sandara says she'll reach out about JIRA board.      
+    • I asked Amy to build component in "Newsletter Sign-up" Working Figma file. She wants to hold off til after meeting. All good.
+    
+2:30PM        
+    
+
+
