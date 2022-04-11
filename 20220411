@@ -1,12 +1,38 @@
 ~ TASKS
-    – Setup "Theme Swapper" plugin. (...)
-    – TASK: MINI SPIKE: Find way to get functionality of 'Text Cropper' and maintain responsive behavior in Figma
+    – Setup "Theme Swapper" plugin. (DONE)
+    – TASK: MINI SPIKE: Find way to get functionality of 'Text Cropper' and maintain responsive behavior in Figma (DONE, needs addt'l plugin)
+    – TASK: Get 1:1 with James Spensor & Luke Finch
+    – TASK: Invite Ellis to "Newsletter Sign-up" component
+    – TASK: Setup Daily Standups (Amy, Suren, Tina, Gabrella)
+    – TASK: Interface Inventory Figma file is 'blowing up'. Lets migrate users to seperate file "Newsletter Sign-up" -> WIP
+    – TASK: Is Flexbox and Grid the same tech? Review approach.
+    – TASK: Touchbase with Vincent on Mobile build styles.    
 
 9:00AM
-  • Meeting: 1:1 w/ Ellis Capon
+  • Meeting: 1:1 w/ Ellis Capon, Snr. Product Manager NewsKit
+    – TASK: Get 1:1 with James Spensor & Luke Finch
+        • For technical details of "NewsKit Render"
+    – TASK: Invite Ellis to "Newsletter Sign-up" component
+    – NewsCorp has three main publications
+        ª Times
+        • Sun
+        • Wireles
+    – Wireless is the most integrated with NK. Times is concentrating on subbrands, sunsetting Wordpress platforms with new re-platforming 
   
 9:30AM
   • Meeting: Tina
+    – TASK: Setup Daily Standups (Amy, Suren, Tina, Gabrella)
+    – TASK: Interface Inventory Figma file is 'blowing up'. Lets migrate users to seperate file "Newsletter Sign-up" -> WIP
+    – TASK: Is Flexbox and Grid the same tech? Review approach.
+    – TASK: Touchbase with Vincent on Mobile build styles.
+  
+10:00AM
+    • Meeting: Richard Glazier
+        – Unblocked "Theme Swapper"! He gave me a GitHub key that worked
+        – Additional info on "Text Cropper"
+            • Need an additional Plug-in to responsively resize. ( I don't have it, need to reach out )
+            • Both Richard and myself not convinced on value of "Theme Swapper". But some designer/managers are fans. Not sure of engineering value.
+            
   
 11:00AM
   • Meeting: 1:1 w/ Matias Peinado Greco
