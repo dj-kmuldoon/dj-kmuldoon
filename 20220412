@@ -1,11 +1,13 @@
 ~ TASKS
-    – TASK: Lets migrate users to seperate file "Newsletter Sign-up" -> [WIP], [TO BE VERIFIED TOMORROW]
-    – TASK: Share w/ Ellis to "Newsletter Sign-up" component [TBD]    
-    – TASK: MINI SPIKE: Find way to get functionality of 'Text Cropper' and maintain responsive behavior in Figma [needs addt'l plugin] 
-    
+    – TASK: Lets migrate users to seperate file "Newsletter Sign-up" -> [DONE]
+    – TASK: Share w/ Ellis to "Newsletter Sign-up" component [DONE]    
+    – TASK: MINI SPIKE: Find way to get functionality of 'Text Cropper' and maintain responsive behavior in Figma [DONE]     
     – TASK: Fix Daily Stand-Up schedule [DONE]
     – TASK: Setup 1:1 with Gabriela [DONE]
+    
     – TASK: Create Share video of responsive behavior with "Text Cropper" plugin
+    – TASK: Write up a single-page flow chart for Sharon review
+    – TASK: Fill in G, H columns in https://docs.google.com/spreadsheets/d/1ehcWTTmse3a6DHj5nfgpsWGsrtNCiUNoIvZj5BytFDA/edit#gid=1690640788
     
         
 9:00AM
@@ -29,12 +31,52 @@
     – Inspiration and back-end code for Text Cropper – https://seek-oss.github.io/capsize/
     
 • Created a Confluence Page for NewsKit resources. 
-    - Asked team to verify they have access. https://wiki.utilitytoolsprod.dowjones.io/pages/viewpage.action?pageId=214959674    
+    - Asked team to verify they have access. https://wiki.utilitytoolsprod.dowjones.io/pages/viewpage.action?pageId=214959674   
+        • Access verified, need Global Protect VPN.
   
 12:00PM
   • MEETING: DJ-UDS & Design Tokens for mobile (Ben Frye, Vincent Rickey, Nixon, Tina, Kelly Dickerson, Josh Williams)
+    – Sent notes to Tina.
   
+12APR2022, 1PMEST
+
+Vincent Rickey, Ben Fry.
+
+OVERVIEW: Vincent wanted to keep meeting very high-level. He divides broadly into WHAT we want to do and HOW we want to do it. A bit more fuzzy on HOW, but WHAT is moble apps with white-label for all brands (heavy lean towards StyleDictionary JSON). Vincent unsure of command structure and wants clarification ownership of areas responsibility well defined (Where does Tina, Ziya, Kevin fit into his project). I can see this as confusing since re-design, mobile and UDS with DK are dependent on one another.
+
+• I introduce myself and the UDS initiative. Explain that DJ-UDS seeks to leverage NK, but ultimately this is DJs design system for all brands, and we own this.
+
+• Vincent is working on the Nextgen mobile platform, which will be the new way to create mobile apps with white-label capabilities. 
+
+• Nexgen has no plans or thoughts to integrate into NewsKit. Out of scope for them. Makes sense since NewsKit does not support mobile and NK was under impression that REEL x-platform was to be used.
+
+• He suspects Nextgen is a long-term project. Said it might take "A quarter, perhaps".
+
+•
+
+• Nextgen will be using NATIVE CODE (Swift, Kotlin) for this initiative. Cross-platform technologies such as React-Native, Flutter, and REEL have were researched. However, strategic decision is to move forward with pure native for each platform for Nextgen.
+
+• IMPORTANT: Vincent is unsure who owns what. Feels unable to move forward until he's confident stake-holders are aligned on that question. 
+	
+	– CONCEPT: UDS owns TOKENS and exports to JSON for Vincent, and Vincents team owns native components which consumes those tokens.
+
+• Vincent needs tokens (colors, typography, spacing, etc) in JSON format compatible with StyleDictionary. 
+
+• NK is looking to create StyleDictionary compatible JSON, but no idea on timeline or urgency on their part. Today, NK uses REEL, which I still want to understand. 
+
+• Fortunately, several Figma plug-ins can automatically export JSON for StyleDictionary today. We literally could start experimenting with design/engineers this week.
+
+– TAKE AWAYS
+	• Reach out to Sebastian for Mobile Design Figma files and their perspective on tokens they use today.
+	• Go to github and take a deeper look on what mobile engineering has today.
+	• IDEA. Any reason we couldn't add style-dictionary format to existing JSON file from NK? Should be ignored if key not recognized.
   
+
+1:30PM
+    • MEETING: TINA. Review DJ-UDS Design Tokens,
+        – I pitched a quick way forward for working with NextGen mobile app initiative.
+        – TASK: Write up a single-page flow chart for Sharon reivew
+        – TASK: Fill in G, H columns in https://docs.google.com/spreadsheets/d/1ehcWTTmse3a6DHj5nfgpsWGsrtNCiUNoIvZj5BytFDA/edit#gid=1690640788
 
 
   
