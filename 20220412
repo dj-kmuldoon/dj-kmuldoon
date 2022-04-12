@@ -1,22 +1,39 @@
 ~ TASKS
     – TASK: Lets migrate users to seperate file "Newsletter Sign-up" -> [WIP], [TO BE VERIFIED TOMORROW]
-    – TASK: Share w/ Ellis to "Newsletter Sign-up" component [TOMORROW]    
-    – TASK: MINI SPIKE: Find way to get functionality of 'Text Cropper' and maintain responsive behavior in Figma [needs addt'l plugin]   
+    – TASK: Share w/ Ellis to "Newsletter Sign-up" component [TBD]    
+    – TASK: MINI SPIKE: Find way to get functionality of 'Text Cropper' and maintain responsive behavior in Figma [needs addt'l plugin] 
     
+    – TASK: Fix Daily Stand-Up schedule [DONE]
+    – TASK: Setup 1:1 with Gabriela [DONE]
+    – TASK: Create Share video of responsive behavior with "Text Cropper" plugin
+    
+        
 9:00AM
     • "Hi Kevin, Good news, your request for access to Reel has been approved. It'll be available on your Okta home page soon."
 
-
 9:30AM
   • MEETING: Daily Stand-Up: Dow Jones Design System Team 
-  
+    – TASK: Fix Daily Stand-Up schedule [DONE]
+    – TASK: Setup 1:1 with Gabriela
+    - TASK: Share w/ Ellis to "Newsletter Sign-up" [HOLD TIL AMY MAKES VARIENTS]
+
+• TASK: Create Share video of responsive behavior with "Text Cropper" plugin
   
 10:00AM
-  • MEETING: NewsKit Design System - Design drop in clinic (Ellis Capon, 51 guests)
-  
+  • MEETING: NewsKit Design System - Design drop in clinic (Ellis Capon, Mike Messina, 51 guests)
+    – I was the only person who joined. Chatted for 15m
+    – Mike had a list of people he wanted to share with me. He'll send soon.
+    – I asked if they preferred Text Cropper to align to baseline or Descender (RESPONSE: baseline)
+    – Theme Swapper does apply Text Cropper automagically. Good to know.
+    – Figma was interested in incorporating Text Cropper functionality in an upcoming release.
+    – Inspiration and back-end code for Text Cropper – https://seek-oss.github.io/capsize/
+    
+• Created a Confluence Page for NewsKit resources. 
+    - Asked team to verify they have access. https://wiki.utilitytoolsprod.dowjones.io/pages/viewpage.action?pageId=214959674    
   
 12:00PM
   • MEETING: DJ-UDS & Design Tokens for mobile (Ben Frye, Vincent Rickey, Nixon, Tina, Kelly Dickerson, Josh Williams)
+  
   
 
 
