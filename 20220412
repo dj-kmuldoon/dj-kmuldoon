@@ -9,6 +9,9 @@
     – TASK: Write up a single-page flow chart for Sharon review
     – TASK: Fill in G, H columns in https://docs.google.com/spreadsheets/d/1ehcWTTmse3a6DHj5nfgpsWGsrtNCiUNoIvZj5BytFDA/edit#gid=1690640788
     
+    • MEETING: NewsKit Design System - Design drop in clinic (Ellis Capon, Mike Messina, 51 guests)
+    • MEETING: DJ-UDS & Design Tokens for mobile (Ben Frye, Vincent Rickey, Nixon, Tina, Kelly Dickerson, Josh Williams)
+    • MEETING: TINA. Review DJ-UDS Design Tokens
         
 9:00AM
     • "Hi Kevin, Good news, your request for access to Reel has been approved. It'll be available on your Okta home page soon."
@@ -52,8 +55,6 @@ OVERVIEW: Vincent wanted to keep meeting very high-level. He divides broadly int
 
 • He suspects Nextgen is a long-term project. Said it might take "A quarter, perhaps".
 
-•
-
 • Nextgen will be using NATIVE CODE (Swift, Kotlin) for this initiative. Cross-platform technologies such as React-Native, Flutter, and REEL have were researched. However, strategic decision is to move forward with pure native for each platform for Nextgen.
 
 • IMPORTANT: Vincent is unsure who owns what. Feels unable to move forward until he's confident stake-holders are aligned on that question. 
@@ -77,7 +78,4 @@ OVERVIEW: Vincent wanted to keep meeting very high-level. He divides broadly int
         – I pitched a quick way forward for working with NextGen mobile app initiative.
         – TASK: Write up a single-page flow chart for Sharon reivew
         – TASK: Fill in G, H columns in https://docs.google.com/spreadsheets/d/1ehcWTTmse3a6DHj5nfgpsWGsrtNCiUNoIvZj5BytFDA/edit#gid=1690640788
-
-
-  
  
