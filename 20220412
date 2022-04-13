@@ -1,5 +1,16 @@
-~ STANDUP
-	• Yesterday
+~ TASKS
+	• TASK: Meeting James Spenser and Luke Finch  [DONE]
+	• TASK: Design System Component Master List  [DONE]
+	• TASK: Create Share video of responsive behavior with "Text Cropper" plugin
+	• TASK: Too much? Too little? [DONE]
+
+9:00AM
+	
+• Catchup on emails, slack
+
+9:30AM
+	• Standup meeting
+		• Yesterday
 			
 		- MEETING: NewsKit Design System - Design drop in clinic (Ellis Capon, Mike Messina, 51 guests)
 		- MEETING: DJ-UDS & Design Tokens for mobile (Ben Frye, Vincent Rickey, Nixon, Tina, Kelly Dickerson, Josh Williams)
@@ -16,17 +27,35 @@
 	• Today
 		– Meeting James Spenser and Luke Finch
 		- Design System Component Master List– Fill in G, H columns in https://docs.google.com/spreadsheets/d/1ehcWTTmse3a6DHj5nfgpsWGsrtNCiUNoIvZj5BytFDA/edit#gid=1690640788
-			• Work w/ Suren
 		– TASK: Create Share video of responsive behavior with "Text Cropper" plugin			
 
 	• Blockers
 		– NONE
-
-9:30AM
-	• Standup meeting
 	
 10:00AM 
 	• Meeting Luke/James, technical things of DK
+		"Hello Luke, James!
+
+"Hey this is Kevin! I'm the new Design Technologist for Dow Jones Unified Design System under Tina Nixon. 
+I've been reaching out to NK team-members for 1:1s and it's been great to meet/greet the team. Everyone mentions you 
+as primary drivers of Figma/Web/CLI implementations of NewsKit Design System so it would be great to get together.
+Hope to get some time to meet both of you and get the big picture of how design and engineering interfaces with NK for Dow Jones. 
+We have an opportunity to make sure this initiative works as smoothly as possible so lets take advantage!"
+
+		– Color system for NK is agnostic to token name of 'primitive' token names. i.e 'blue060' could be named 'whatchamacallit'. The render only references the 'contextual' names of colors.
+		– There is a plan to incorporate StyleDictionary into NK. Completion months down road. I'm not sure when they start building.
+		– Luke uses HSLUV color model, built from CIE. We are completely aligned with L* functionality for generating ramps.
 	
+• Ellis says 'looks good' on work done by Amy on 'Newsletter sign-up'. Capon  9:22 AM Yeah we took a look at it, looks good! Any pains in the process?
+
 • Design System Component Master List
+• Slacking with Sebastian Vidal, he likes the color article I wrote. Wants to incorporate. I like his icon article he wrote.
+
+• 2:00PM
+	MEETING: Open session for working on the component grid
+	
+• Document "too much, too little". Systemic ways forward. 	
+
+		
+		
 	
