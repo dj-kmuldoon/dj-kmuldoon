@@ -1,19 +1,22 @@
 ~ STANDUP
 	• Yesterday
-		- Computer request moving forward
-		- access to Reel approved
-		– Fixed  Daily Stand-Up schedule [DONE]
-		– Share w/ Ellis to "Newsletter Sign-up" component [DONE] 
-		– MINI SPIKE: Find way to get functionality of 'Text Cropper'...
-		
+			
 		- MEETING: NewsKit Design System - Design drop in clinic (Ellis Capon, Mike Messina, 51 guests)
 		- MEETING: DJ-UDS & Design Tokens for mobile (Ben Frye, Vincent Rickey, Nixon, Tina, Kelly Dickerson, Josh Williams)
 	    	– MEETING: TINA. Review DJ-UDS Design Tokens	
-			• TASK: Write up a single-page flow chart for Sharon review [DONE]
+		
+		– Fixed Daily Stand-Up schedule 	
+		- Computer request moving forward
+		- Access to Reel (x-platform dev solution, used by NK mobile) approved.
+		– Create Confluence doc for NewsKit links, resources Mike Messina forwarded. Verfied accessible.
+		– Shared w/ Ellis to "Newsletter Sign-up" component [DONE] 
+		– MINI SPIKE: Find way to get functionality of 'Text Cropper'...
+		– TASK: Write up a single-page flow chart for Sharon review [DONE]
 			
 	• Today
 		– Meeting James Spenser and Luke Finch
-		- Fill in G, H columns in https://docs.google.com/spreadsheets/d/1ehcWTTmse3a6DHj5nfgpsWGsrtNCiUNoIvZj5BytFDA/edit#gid=1690640788
+		- Design System Component Master List– Fill in G, H columns in https://docs.google.com/spreadsheets/d/1ehcWTTmse3a6DHj5nfgpsWGsrtNCiUNoIvZj5BytFDA/edit#gid=1690640788
+			• Work w/ Suren
 		– TASK: Create Share video of responsive behavior with "Text Cropper" plugin			
 
 	• Blockers
@@ -24,4 +27,6 @@
 	
 10:00AM 
 	• Meeting Luke/James, technical things of DK
+	
+• Design System Component Master List
 	
