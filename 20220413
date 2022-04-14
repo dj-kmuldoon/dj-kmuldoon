@@ -1,0 +1,40 @@
+~ TASKS
+	• TASK: Get Adam Bedell and Brendan Bagley to provide POV 
+	• TASK: Meet Amy
+	• TASK: Meet team time.
+  • TASK: Create Share video of responsive behavior with "Text Cropper" plugin
+
+9:00AM
+	
+• Catchup on emails, slack
+
+9:30AM
+	• Standup meeting
+		• Yesterday
+			
+	  – TASK: Met James Spenser and Luke Finch  [DONE]
+		    • There is a plan to incorporate StyleDictionary into NK. Completion months down road. I'm not sure when they start building.
+		    • Color system for NK is agnostic to token name of 'primitive' token names. i.e 'blue060' could be named 'whatchamacallit'. The render only references the 'contextual' names of colors.        
+		    • Luke uses HSLUV color model, built from CIE. We are completely aligned with L* functionality for generating ramps.
+    – Luke sent excel file describing 'primitive colors' for NK. 
+      • I have a tool that can auto-generate to match his schema and weights.        
+	  – TASK/MEETING: Design System Component Master List 'swarm' [DONE]
+	  – TASK: Created "Scope to Expectations" presentation (notes from Amy feedback) [DONE]
+    ••• TASK: Create Share video of responsive behavior with "Text Cropper" plugin [SLIP]
+
+			
+	• Today
+		– Get Adam Bedell and Brendan Bagley to provide POV on “Less engineering need to support custom tooling of ‘Theme Swapper’, Scope to Expectations.
+    – MEETING: Weekly meeting with Amy
+    – MEETING: Team Time 
+		– Create Share video of responsive behavior with "Text Cropper" plugin			
+
+	• Blockers
+		– NONE
+	
+10:00AM 
+
+
+		
+		
+	
