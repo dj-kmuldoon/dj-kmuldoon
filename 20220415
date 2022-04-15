@@ -1,5 +1,8 @@
 ~ TASKS
 
+	[TASK] Color normalization to semantic-weighted (primitive color tokens) for WSJ and ALL the brands.
+	TASK: Create Share video of responsive behavior with "Text Cropper" plugin [TBD]
+
 
 8:00AM
 	
@@ -7,14 +10,14 @@
 • Clor experiments with new color tool, extracts CSS code for colors automagically. https://alwane.io/
 	– Shared early experiments with team
 
-9:30AM
+9:30AM – 9:45AM
 	• Standup meeting
 		
 	• YESTURDAY
 		• TASK: Meet Amy  [DONE]	
 		• TASK: Setup meet with Sebastian on WSJ colors, pathfind for NK adoption [MEET TODAY]			
 		• TASK: Get Adam Bedell and Brendan Bagley to provide POV [SLIP]
-		• TASK: Create Share video of responsive behavior with "Text Cropper" plugin [REMOVE]
+		• TASK: Began Normalized colors to semantic-weighted WSJ in NK-WSJ branch. Prep for Sebastian.
 		• GOT MY COMPUTER. Plan to setup Monday.
 			
 	• TODAY
@@ -26,4 +29,21 @@
 
 	• Blockers
 		– NONE
+		
+9:45AM - 10:30AM
+	• MEETING: "Discuss Options for DS"
+	• [TASK] Create video for Theme Swapper (Happy day, unhappy day)
+	• [TASK] Create video for Text Cropper  (Happy day, unhappy day)
+	• NOTE: Use Gab as a resource for tasks where we see strengths, help her onboard.
+	• Amy to Diff NK-WSJ and WSJ Figma Libraries for components.
+	• Kevin/Amy are points of contact and decision leaders (Involve Amy in video creation)
+		CONSIDER WORKFLOW and STRUCTURE
+			– Our goal is ADOPTION, ADOPTION, ADOPTION
+			(note, this is OUR goal. Internal. externally we list different goals to users where they see benefits and problems solved)
+			– Know that our DS will serve two different needs of designers. "Pick up an existing component" customers and "I need to build from scratch" customers. We'll NEVER have 100% components, so must serve both users.
+			– PERHAPS  align stakeholders of different brands early in component creation (Round table of experts of brands), negotiate on what they can live with and what is absolutly essential. Make 20 varients into a more manageable 3-5, if feasible.
+			
+			
+	
+	
 	
