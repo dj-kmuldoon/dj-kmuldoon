@@ -1,82 +1,29 @@
 ~ TASKS
-	• TASK: Get Adam Bedell and Brendan Bagley to provide POV [SLIP]
-	• TASK: Meet Amy  [SLIP]
-	• TASK: Meet team time.  [CANCELLED]
-	• TASK: Create Share video of responsive behavior with "Text Cropper" plugin [REMOVE]
-	• Reach out to Sebastian, get him started on NK! See how it goes. Pathfinder! [IN-PROGRESS]
-	• TASK: Setup meet with Sebastian on WSJ colors, pathfind for NK adoption [DONE]
 
-9:00AM
+
+8:00AM
 	
 • Catchup on emails, slack
-• ZOOM MEET: Nathan A Curtis @nathanacurtis So, it seems @danmall, @Amy_Hupe and I are convening to debate the what's, how's,...
-• Moved standup to 10:AM
-• ZOOM ended earlier than expected, standup at 9:30AM
+• Clor experiments with new color tool, extracts CSS code for colors automagically. https://alwane.io/
+	– Shared early experiments with team
 
 9:30AM
 	• Standup meeting
-		• Yesterday
+		
+	• YESTURDAY
+		• TASK: Meet Amy  [DONE]	
+		• TASK: Setup meet with Sebastian on WSJ colors, pathfind for NK adoption [MEET TODAY]			
+		• TASK: Get Adam Bedell and Brendan Bagley to provide POV [SLIP]
+		• TASK: Create Share video of responsive behavior with "Text Cropper" plugin [REMOVE]
+		• GOT MY COMPUTER. Plan to setup Monday.
 			
-	  – TASK: Met James Spenser and Luke Finch  [DONE]
-		    • There is a plan to incorporate StyleDictionary into NK. Completion months down road. I'm not sure when they start building.
-		    • Color system for NK is agnostic to token name of 'primitive' token names. i.e 'blue060' could be named 'whatchamacallit'. The render only references the 'contextual' names of colors.        
-		    • Luke uses HSLUV color model, built from CIE. We are completely aligned with L* functionality for generating ramps.
-    – Luke sent excel file describing 'primitive colors' for NK. 
-      • I have a tool that can auto-generate to match his schema and weights.        
-	  – TASK/MEETING: Design System Component Master List 'swarm' [DONE]
-	  – TASK: Created "Scope to Expectations" presentation (notes from Amy feedback) [DONE]
-    ••• TASK: Create Share video of responsive behavior with "Text Cropper" plugin [SLIP]
-
-			
-	• Today
-		– Get Adam Bedell and Brendan Bagley to provide POV on “Less engineering need to support custom tooling of ‘Theme Swapper’, Scope to Expectations.
-    – MEETING: Weekly meeting with Amy
-    – MEETING: Team Time 
-		– Create Share video of responsive behavior with "Text Cropper" plugin			
+	• TODAY
+		• MEETINGS: (till 1:30PM)
+			– Discuss Mobile/Design System alignment
+			– Catch up with Amy
+			– WSJ Colors with Sebastian
+			– Article/Mobile demo day
 
 	• Blockers
 		– NONE
-	
-10:00AM 
-	• Examine colors in NK-WSJ. Can normalize to NK weights?
-
-10:30
-	• MEETING WITH AMY
-	
-• Normalizing Colors for NK-WSJ	(big task)
-• Reached out to Sebast on Slack.
-	– [TASK] Setup meet with Sebastian.
-• MEET with Amy on WSJ Colors	
-	
-	
-–––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
-
-• Create a name for 'Dow Jones Unified Design System', to run by Sharon
-
-WHY?: Opportunity to share initiative with all brands, recognition of our goals and who we are org wide. Important for code, as we'll want to prefix that doesn't change.
-	
-	–[SPIT-BALLING POTENTIAL NAMES]
-	• Stock
-	• Industrial
-	• Benchmark
-	• Charles
-	• Index
-	• Bull 
-	• Bear
-	• Market
-TAGLINE: "Benchmark Design System. A themable Design System for every Dow Jones brand, powered by NewsKit."
-	
-• Adopt PRINCIPLES/VALUES of Design System, to run by Sharon
-
-WHY?: Guiding principles allow our team to make decision at scale.
-"Sort order ranked, by importance and measurability. Taken from Salesforce Lightning. We can make our own, but these are actionable and measurable."
-
-	• Clarity	– Eliminate ambiguity, People see and understand and act with confidence.
-	• Efficiency	– Optimize workflows, help designers/engineers work better, smarter and faster to create solutions
-	• Consistency	– Create familiarity, strengthen intuition by adopting the same solution to same problem
-	• Beauty	– Respect users time and attention through thoughtful and elegant craftsmanship.
-
-
-		
-		
 	
