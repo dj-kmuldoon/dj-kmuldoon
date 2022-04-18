@@ -1,88 +1,34 @@
 ~ TASKS
-
+	TASK: Setup new Computer
 	TASK: Color normalization to semantic-weighted (primitive color tokens) for WSJ and ALL the brands [IN-PROGRESS]
 	TASK: Create Share video of responsive behavior with "Text Cropper" plugin [TBD]
 	TASK: Create Share video of responsive behavior with "Theme Swapper" plugin [TBD]
 	TASK: Create meeting with Sebastian early next week on partnership initiative. [TBD]
+	TASK: Get Adam Bedell and Brendan Bagley to provide POV
+	TASK: Normalized colors to semantic-weighted WSJ in NK-WSJ branch.
 
-
-8:00AM
+9:00AM
 	
 • Catchup on emails, slack
-• Color experiments with new color tool, extracts CSS code for colors automagically. https://alwane.io/
-	– Shared early experiments with team
-	– Appears to p/u colors from ad inserts. See if we can mask.
 
 9:30AM – 9:45AM
 	• Standup meeting
 		
 	• YESTURDAY
-		• TASK: Meet Amy  [DONE]	
-		• TASK: Setup meet with Sebastian on WSJ colors, pathfind for NK adoption [MEET TODAY]			
-		• TASK: Get Adam Bedell and Brendan Bagley to provide POV [SLIP]
-		• TASK: Began Normalized colors to semantic-weighted WSJ in NK-WSJ branch. Prep for Sebastian.
-		• GOT MY COMPUTER. Plan to setup Monday.
-			
+		• MEETING: "Discuss Options for DS"
+		• MEETING: Next gen mobile & DS discussion (Tina, Sharon)
+		• MEETING: WSJ Colors (Sebastian Vidal)		
+		• MEETING: Article & Mobile Demo Day		
+		• 
 	• TODAY
-		• MEETINGS: (till 1:30PM)
-			– Discuss Mobile/Design System alignment
-			– Catch up with Amy
-			– WSJ Colors with Sebastian
-			– Article/Mobile demo day
+		• TASK: Setup new Computer
+
 
 	• Blockers
 		– NONE
 		
-9:45AM - 10:30AM
-	• MEETING: "Discuss Options for DS"
-	• [TASK] Create video for Theme Swapper (Happy day, unhappy day)
-	• [TASK] Create video for Text Cropper  (Happy day, unhappy day)
-	• NOTE: Use Gab as a resource for tasks where we see strengths, help her onboard.
-	• Amy to Diff NK-WSJ and WSJ Figma Libraries for components.
-	• Kevin/Amy are points of contact and decision leaders (Involve Amy in video creation)
-		CONSIDER WORKFLOW and STRUCTURE
-			– Our goal is ADOPTION, ADOPTION, ADOPTION
-			(note, this is OUR goal. Internal. externally we list different goals to users where they see benefits and problems solved)
-			– Know that our DS will serve two different needs of designers. "Pick up an existing component" customers and "I need to build from scratch" customers. We'll NEVER have 100% components, so must serve both users.
-			– PERHAPS  align stakeholders of different brands early in component creation (Round table of experts of brands), negotiate on what they can live with and what is absolutly essential. Make 20 varients into a more manageable 3-5, if feasible.
-			
-12:00PM - 12:30PM
-	• MEETING: Next gen mobile & DS discussion (Tina, Sharon)
-		– Presented proposal for supporting Nextgen mobile initiative as a Design System Team
-		– Mobile going native (AFAIK), so needs Amazon StyleDictionary support
-		– Sharon agrees our team should control tokens, naming.
-			• Sharon to reach out to Clarence
-		- Tina mentions 'friction' on first POC component 'Subscribe cards'.
-		– Tina shares Amy and myself to share 'how-to's' on Theme Swapper & Text Cropper
-		– Everybody plays D&D, and Tinas husband pulls mad money as a Pro DM. ;-)
-		
-12:30PM	- 1:00PM 
-	• MEETING: Article & Mobile Demo Day
-		– Good research studies.
-		– I bounced early (a 1hr meeting)
-		
-• Continued normalizing colors for WSJ
-
-2:00PM – 2:30PM
-	• MEETING: WSJ Colors (Sebastian Vidal)
-		"Hey Sebastian, I'd like to connect on colors for WSJ for NK. Make sure everything matches your expectations and review early studies on revised color ramp."
-		– Sebastian has never seen the NK-WSJ Figma File (so never used)
-		– Sebastian worked on 'WSJ Style' colors. https://www.figma.com/file/l77GaUOIWjKsZvg9lRLhKK/WSJ-Style?node-id=3%3A5
-			• Sensed Sebastian didn't agree with the naming of the colors. Good instinct!
-		– I showed him the existing color ramps in NK-WSJ. I mentioned "I think I would have a hard time understanding what color to use" Sebastian agreed enthusiastically.
-		– Gave sebatian a peek-under-the-hood on progress made redoing color ramps. 
-			• Explained what LAB color space and how it is beneficial for consistent colors.
-			• Showed him the program I created to generate color ramps in a logical WCAG compliant way.
-		– Sebastian wants to connect with "Forest", his boss about this. Design Director. Forest will return on the 19th,  we have some time.
-		– CONCERN raised by Sebastian, "With WSJ, we only have 3 colors to choose from (for each semantic). We want to limit the users ability to make a wrong choice."
-			• ANSWER: "Users will not make wrong choice with addt'l colors. So long as we keep the rules simple (which we will)". Also said that UDS is supporting MANY brands. While WSJ has 3 colors, Barrons and others may have 5 or more. We can't expect Barrons to cut two colors to match WSJ. Sebastian saw the logic in that.
-		– Sebastian was excited about using DJ-UDS as he's building out his new mobile component library. He really wants to help and be involved.
-		– [TASK] Reconnect with Sebastian early next week on our partnership.
-		
-		
-• Continue normalizing colors for WSJ. Only need to do yellow and neutrals. Then, compress into 10 (or more) steps for Sebastian to consume.		
-	
-
+10:00AM
+	•
 
 			
 			
