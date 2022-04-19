@@ -5,11 +5,12 @@
   TASK: Create Share video of responsive behavior with "Text Cropper" plugin [TBD]
   
  ~ BACKLOG
- 	TASK: Create workflow for UDS
+ 	TASK: Create workflow for UDS. Start to finish, approval processes. Documentation. Releases, updates.
 	TASK: Get Adam Bedell and Brendan Bagley to provide POV
 	TASK: Create Share video of responsive behavior with "Theme Swapper" plugin [TBD]
 	TASK: Color normalization to semantic-weighted (primitive color tokens) for WSJ and ALL the brands [IN-PROGRESS]
-    – • I got WSJ color ramps 'pre-optimized'. Need to transfer to optimized NK. Want to continue with other brands.
+    		– • I got WSJ color ramps 'pre-optimized'. Need to transfer to optimized NK. Want to continue with other brands.
+	TASK: Peek under the hood of NewsKit Web. NewsKit Web is available as npm/yarn install. 
 
 
 8:00AM
