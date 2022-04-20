@@ -26,15 +26,49 @@
 	• TODAY
    		• MEETING: Review Newsletter sign-up components (James Newson/Adam Bedell/Brendan Bagley/Amy )
    		• MEETING: Documenting Catchup
-		• MEETING: Sebastian/Amy/Tina
+		• MEETING: Touchbase: Mobile & Figma Libraries NK integration
 		• ~ TODAYS TASKS
 		
 
 	• Blockers
 		– NONE
 		
+10:00AM
+	• MEETING: Review Newsletter signup components
+		– Amy Nailor <amy.nailor@wsj.com>, 
+		– geri.reid@news.co.uk, 
+		– James Newson <james.newson@news.co.uk>
+	– Geri just started yesterday, she recognized me from Medium.com
+	– James gives an important tip to Amy on border radius handlign in 'Theme Swapper'
+	– James mentions a Component Approval Checklist in NewsKit, we should use.
+	
+		
+		
 11:00AM
-	•
-	•
-	•
+	• Sebastian asks to invite two more people (Jamison Jones, Jason Nguyen) to 12PM 'Touchbase: Mobile & Figma Libraries NK integration' meeting.
+		– [INSERT] Need to make color ramp presentation BETTER for larger audience (7 people now).		
+
+12:00PM 
+	•  MEETING: Touchbase: Mobile & Figma Libraries NK integration
+		• Adam Bedell <adam.bedell@dowjones.com>, 
+		• Amy Nailor <amy.nailor@wsj.com>, 
+		• Brendan Bagley <brendan.bagley@dowjones.com>, 
+		• Jamison Jones <jamison.lowelljones@dowjones.com>, 
+		• Jason Nguyen <jason.nguyen@dowjones.com>, 
+		• Sebastian Vidal <sebastian.vidal@wsj.com>, 
+		• "Nixon, Tina" <tina.nixon@dowjones.com>
+	– Presented color ramps and how Lucas Finch is approaching with L* weights. 
+	– Advantages to WCAG communication (incidental vs. essential colors)
+	– A lot of colors, how do we avoid choosing the wrong color demonstrated.
+	– Supporting dark-mode.
+	– Presented my program which creates color ramps automatically. Showed how it maps to NewsKit.
+	– Amy suggests presenting how theme-swapper works to larger audience (lots of enthusiasm)
+	– TAKE AWAY: Sebastian tasked to create color semantic names that make best sense.
+	– OVERALL: Good reception of concepts for NewsKit and color ramps. 
+	
+1:00PM
+
+[TASK] Create Share video of responsive behavior with "Text Cropper" plugin
+
+
 
