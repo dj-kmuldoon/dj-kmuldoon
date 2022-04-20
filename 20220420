@@ -1,13 +1,7 @@
 ~ TODAYS TASKS
 
-  • Create meeting with Sebastian early next week on partnership initiative. [DONE: MEETING TOMORROW NOON]
-  • Connect with James Newson on 'Newsletter sign-up' components. Not sure Ellis was right contact [DONE: MEETING TOMORROW MORNING]
-	  – Bring Amy [DONE]
   • Create Share video of responsive behavior with "Text Cropper" plugin [IN-PROGRESS]
   • Theme Swapper not working [TBD]
-  • [INSERT] Needed to get WSJ color ramps optimized to NK, or wouldn't have much to talk about with Sebastian or Amy. [DONE]
-  • TASK: Get Adam Bedell and Brendan Bagley to provide POV [DONE - added them to 'Connect with James Newson on 'Newsletter sign-up' meeting tomorrow]
-
 
  ~ BACKLOG
  
@@ -24,48 +18,23 @@
 	• Standup meeting
 		
 	• YESTURDAY
-	    	• TASK: Setup new Computer [DONE (mostly)]
-		• MEETING: Article Pgm - Weekly Planning Session
-		• MEETING: Tina / Sandara
-		• MEETING: Jira Tickets
+		• Create meeting with Sebastian/Amy early next week on partnership initiative and color ramps. [DONE: MEETING NOON TODAY]
+	  	• Connect with James Newson/Adam Bedell/Brendan Bagley/Amy on 'Newsletter sign-up' components. Not sure Ellis was right contact [DONE: MEETING TODAY]
+		• [INSERT] Needed to get WSJ color ramps optimized to NK, or wouldn't have much to talk about with Sebastian or Amy. [DONE]
+		• Created a Presentation StyleGuide document in Figma [WIP]
 
 	• TODAY
+   		• MEETING: Review Newsletter sign-up components (James Newson/Adam Bedell/Brendan Bagley/Amy )
+   		• MEETING: Documenting Catchup
+		• MEETING: Sebastian/Amy/Tina
 		• ~ TODAYS TASKS
-   		• MEETING: NewsKit Design System - Design drop in clinic
+		
 
 	• Blockers
 		– NONE
 		
 11:00AM
+	•
+	•
+	•
 
-• Connected with Amy on normalized WSG colors, so we can have a conversation with Sebastian tomorrow.
-	– Luke Finch created 'meaningfully weighted' ramps.
-		• Weight 050 is pass for 3:1 WCAG on "#FFFFFF"
-		• Weight 060 is pass for 4.5:1 WCAG on "#FFFFFF"
-	– When making ramps for WSJ, Barrons, MORE, we should adhere to meaningful *L values defined in NK
-		• Helps accessibility (A11y)
-		• Communicates to designers/engineers the 'right' weight to choose (or ignore, if they choose)
-		• The 'right' color for accessibility is not handled by UDS. They must interface with brand/designers (not us in the middle).
-	– I mentioned colors can be annotated in 'description' in Figma, which is searchable. 
-		• If designer prefers to find a color by 'definitive name'. they can search 'dark-yellow' and find 'alert-080' is the correct key/value in Figma
-	– UDS values ensuring colors are 'tokenized' in a logical NK fashion, and allow brand/design to quickly search for 'their' defined colors
-		• Propose prefixing 'description' of all defined/approved brand colors with a special character so they can list all colors.
-• Created a Figma file to define presentation standards.
-	– Agree 16:9 ratio on videos, slides, presentations.
-• Continued setup of iShowU for good quality and 16:9 ratio capture (prep for 'Text Cropper' video)
-• Told Amy I will invite her all meetings I create with Stakeholders, designers, etc. 
-	– I'll tag optional if not super important.
-• Will continue with video setup and creation of 'Text Cropper' video.	
-
-
-STRUCTURAL NEEDS FOR UDS
-	• Dedicated Confluence Site for UDS
-		– Need a place to put documentation (if only we could spring for ZeroHeight)
-			• POTENTIAL PROBLEM: Does everyone have access to our Confluence? Without friction?
-	• Dedicated Jira board	
-	• Dedicated Slack channel (I know we have one, too many people in group?)
-	• Access to NK documentation? Copy/paste where it makes sense?
-
-	
-	
-	
