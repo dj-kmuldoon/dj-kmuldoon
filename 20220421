@@ -1,11 +1,11 @@
 ~ TODAYS TASKS
+	• [TASK-INSERT] Play with Confluence, create pages (for mobile), take notes, make comments
 	• Fill out deck with color ramps (Mobile Steering Committe, deeper dive into process!)
-  	• MEETING: Confluence site planning
-  	• Create Share video of responsive behavior with "Text Cropper" plugin [IN-PROGRESS]
-  	• Theme Swapper not working [TBD]
+
 
  ~ BACKLOG
- 
+   	• Create Share video of responsive behavior with "Text Cropper" plugin [IN-PROGRESS]
+  	• Theme Swapper not working [TBD]
 	TASK: Create workflow for UDS. Start to finish, approval processes. Documentation. Releases, updates.
 	TASK: Color normalization for Remaining brands (meaningfully weighted)
 	TASK: Peek under the hood of NewsKit Web. NewsKit Web is available as npm/yarn install.
@@ -79,5 +79,13 @@
 				– PROPOSED: Unified Design System Team takes ownership of Figma library files, and responsibility for naming, output and hosting of tokens to support both NK as well as StyleDictionary for Mobile Nextgen.
 				– KEY: Sharon to connect with Clarence. Sharon Slacks Tina/Kevin that Clarence is OOO until next week.
 				-MY PERSONAL TAKE AWAY: Take no further action with Mobile Engineering until Leadership has connected, and design-token ownership is communicated to wider team.
+				
+				
+12:00PM
+  • [TASK] Fill out deck with color ramps (Mobile Steering Committe, deeper dive into process!) [IN-PROGRESS]
+  
+2:00PM  
+	• [TASK-INSERT] Play with Confluence, create pages (for mobile), take notes, make comments
+
 				
 				
