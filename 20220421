@@ -1,6 +1,6 @@
 ~ TODAYS TASKS
-	• Fill out deck with color ramps (Mobile Steering Committe, deeper dive into process!
-  	•  MEETING: Confluence site planning
+	• Fill out deck with color ramps (Mobile Steering Committe, deeper dive into process!)
+  	• MEETING: Confluence site planning
   	• Create Share video of responsive behavior with "Text Cropper" plugin [IN-PROGRESS]
   	• Theme Swapper not working [TBD]
 
@@ -47,14 +47,37 @@
 
     
    • TODAY
-    • ~ TASKS
-    • Note: Paul More meeting Friday, "Design system discussion with Kevin"
-		
+    • Note: I accepted a meeting w/ Paul More Friday, "Design system discussion with Kevin" @ 12PM
+	    • ~ TASKS
+	
 
 	• Blockers
 		– NONE
 		
 10:00AM
-	• 
-  •
-  •
+  • [TASK] Fill out deck with color ramps (Mobile Steering Committe, deeper dive into process!) [IN-PROGRESS]
+
+  
+11:00AM
+	• [MEETING] Confluence site planning, Tina Nixon
+		– Purpose of 'Design System Program' (https://dowjones.atlassian.net/wiki/spaces/DE/overview?homepageId=2569437376). 
+			• High level stakeholders (non-single contributors) are informed and understand what UDS does for organization.
+			• Define values, principles.
+			• Define process and workflow (How we do things)
+			• IS NOT a DSM (Documentation of components). Internal only.
+		– Design Documentation is worth a steal
+		– Tina likes Paragon Design System
+	• [TASK] Play with Confluence, create pages (for mobile), take notes, make comments
+	• Sharon offers Confluence training – I want.
+	• I know what UXA means (User Experience Architect)
+	• "CONNECT WITH MOBILE ENGINEERING"
+		– Communicated I feel blocked. 
+			• Tue Apr 12 – I reached out to Vincent Ricky for a meeting "DJ-UDS & Design Tokens")
+			• Collected feedback and created a deck, presented with Tina/Sharon. 
+				– Key take aways: Vincent has no plans to use NewsKit. Is unsure of areas of responsibility (who owns what)
+			• Fri Apr 15, 2022 – Presented with Tina/Sharon	'Unified Design Tokens' in response to Vincents directions/questions. https://www.figma.com/file/hVBBQ5UOxZ6ubgeoHclOCl/DJDS-%E2%80%93-White-label-tokens?node-id=2%3A814
+				– PROPOSED: Unified Design System Team takes ownership of Figma library files, and responsibility for naming, output and hosting of tokens to support both NK as well as StyleDictionary for Mobile Nextgen.
+				– KEY: Sharon to connect with Clarence. Sharon Slacks Tina/Kevin that Clarence is OOO until next week.
+				-MY PERSONAL TAKE AWAY: Take no further action with Mobile Engineering until Leadership has connected, and design-token ownership is communicated to wider team.
+				
+				
