@@ -1,0 +1,60 @@
+~ TODAYS TASKS
+
+  •  MEETING: Confluence site planning
+  • Create Share video of responsive behavior with "Text Cropper" plugin [IN-PROGRESS]
+  • Theme Swapper not working [TBD]
+
+ ~ BACKLOG
+ 
+	TASK: Create workflow for UDS. Start to finish, approval processes. Documentation. Releases, updates.
+	TASK: Color normalization for Remaining brands (meaningfully weighted)
+	TASK: Peek under the hood of NewsKit Web. NewsKit Web is available as npm/yarn install.
+
+8:00AM
+	
+• Catchup on emails, slack
+• Worked on color normalization for WSJ
+
+9:30AM – 9:45AM
+	• Standup meeting
+
+	• YESTURDAY
+   		• MEETING: Review Newsletter sign-up components (James Newson/Adam Bedell/Brendan Bagley/Amy )
+   		• MEETING: Documenting Catchup
+		  • MEETING: 12PM – Touchbase: Mobile & Figma Libraries NK integration
+        	• Adam Bedell <adam.bedell@dowjones.com>, 
+		       • Amy Nailor <amy.nailor@wsj.com>, 
+      		• Brendan Bagley <brendan.bagley@dowjones.com>, 
+      		• Jamison Jones <jamison.lowelljones@dowjones.com>, 
+      		• Jason Nguyen <jason.nguyen@dowjones.com>, 
+      		• Sebastian Vidal <sebastian.vidal@wsj.com>, 
+      		• "Nixon, Tina" <tina.nixon@dowjones.com>
+          
+          	– Presented color ramps and how Lucas Finch is approaching with L* weights. 
+          	– Advantages to WCAG communication (incidental vs. essential colors)
+          	– A lot of colors, how do we avoid choosing the wrong color demonstrated.
+          	– Supporting dark-mode.
+          	– Presented my program which creates color ramps automatically. Showed how it maps to NewsKit.
+          	– Amy suggests presenting how theme-swapper works to larger audience (lots of enthusiasm)
+          	– TAKE AWAY: Sebastian tasked to create color semantic names that make best sense.
+          	– OVERALL: Good reception of concepts for NewsKit and color ramps. 
+          
+    • [INSERT] "Need to make color ramp presentation BETTER for larger audience" (7 people)
+    • [INSERT] Mobile Steering Committee Update
+            • Sharon needs presentation for Mobile Steering, explaining UDS role.
+  	        • Take as much as possible and create new Presentation for Tina to leverate
+  
+
+    
+   • TODAY
+    • ~ TASKS
+    • Note: Paul More meeting Friday, "Design system discussion with Kevin"
+		
+
+	• Blockers
+		– NONE
+		
+10:00AM
+	• 
+  •
+  •
