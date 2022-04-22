@@ -23,12 +23,21 @@
 10:30AM - 11:30AM
 	• MEETING: "Unified Design System" - (17 guests)
 		–
-		
-11:30AM
-
-•
-•
-•
+11:30AM - 12:30PM		
+• MEETING: "Next Gen Full Team Demo Day" (24 guests)
+		– Async Await in Swift (thought we had that for years, dunno)
+		– Vincent shows his white-label with color/typography tokens.
+			• Let Tina know that "I'm not say'n nothing'. Would step in Vincents feet.
+			• Audience likes Vincents Demo
+			• Q: These tokens are only WSJ team, what about other brands?
+				– Vincent mentions a Roadmap and UDS.
+				– Vincent mentions waiting for Design Specs to proceed forward with token names.
+				– David Shen/Vincent converse on benefits of engineering/design attend each others demos.
+				– Vin spoke to Sharon, Alex Turner questions align with Sharons concerns.
+					• I suspect Vincent is getting on-board with UDS approach.
+					– "July 1st is a deadline of some sort?"
+				– David Shen says he understands that NK tokens are complicated for mobile.
+					Vincent says he doesn't think we should use NK.
 
 12:00PM - 12:30
 	• MEETING: "Design system discussion with Kevin" - Paul More <paul.more@dowjones.com>
@@ -42,8 +51,15 @@
 	
 2:15PM - 2:30PM
 	• MEETING: "Kevin / Tina - end of week check in" - "Nixon, Tina" <tina.nixon@dowjones.com>
-		–
-		–
+		• Connect with Amy make sure component is theming properly. All overrides, 
+		• [TASK] Double check is . 226px REALLY the minimum size. Width.
+		
+3:00PM
+
+• Reached out to Amy about THEMES and 'Newsletter signup' component. She says all themes checked, verified.
+	[SPIKE] If desired, I can be looped into the verification process.
+• [TASK] • Double check is . 226px REALLY the minimum size. Width.
+			
 
 		
 		
