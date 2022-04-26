@@ -1,0 +1,88 @@
+~ TODAYS TASKS
+	• [TASK] • Create Mobile Confluence Page. (https://openedx.atlassian.net/wiki/spaces/BPL/pages/2594439653/Mobile+App+Design+Guidelines) [IN-PROGRES]
+	• [TASK] – Ask amy about theme swapper walk-thru
+	• [TASK] • Double check is 226px REALLY the minimum size. Width. [DONE]
+	• [TASK] Ping NewsKit dev team on Semantic variables, ensure we're OK with system. [DONE]
+	• [TASK] – "It looks like your The Strongest Link training still hasn’t been completed."
+	• [TASK] – "It looks like your News Corp Global Compliance Training training still hasn’t been completed."
+
+	
+
+ ~ BACKLOG
+	• Fill out deck with color ramps (Mobile Steering Committe, deeper dive into process!)  
+	• [TASK-INSERT] Play with Confluence, create pages (for mobile), take notes, make comments
+   	• Create Share video of responsive behavior with "Text Cropper" plugin [IN-PROGRESS]
+  	• Theme Swapper not working [TBD]
+	• TASK: Create workflow for UDS. Start to finish, approval processes. Documentation. Releases, updates.
+	• TASK: Color normalization for Remaining brands (meaningfully weighted)
+	• TASK: Peek under the hood of NewsKit Web. NewsKit Web is available as npm/yarn install.
+
+9:00AM
+	• Reached out to NewsKit to follow up on 226px minimum width (it's causing addt'l work for Amy)
+		– RESPONSE: "Hi Kevin, where are you seeing a min width of 226px?  The smallest breakpoint size we cater for is 320px in our layout and grids" - James Newson
+	• Chatted with Luke Finch. ABSOLUTELY NO PROBLEM with Semantic variables for colors. 
+
+9:15AM - 9:30AM
+
+	• YESTERDAY (FRIDAY)
+		• MEETING: "Chat Time for Process Nerds" – Subhankar Paul <subhankar.paul@dowjones.com>, "Nixon, Tina" <tina.nixon@dowjones.com>
+			– Presented NewsKit Colors
+			– Subhankar LIKES! Understood. Saw value in the scalability
+		• MEETING: "Group meeting on sign up component changes" – Amy Nailor <amy.nailor@wsj.com>, Gabriela Almaguer <gabriela.almaguer@dowjones.com>, Surendar Selvaraj <surendar.selvaraj@dowjones.com>, "Nixon, Tina" <tina.nixon@dowjones.com>
+		• MEETING: "Unified Design System" - (17 guests)
+		• MEETING: "Next Gen Full Team Demo Day" (24 guests)
+		• MEETING: "Design system discussion with Kevin" - Paul More <paul.more@dowjones.com>
+		• MEETING: "Kevin / Tina - end of week check in" - "Nixon, Tina" <tina.nixon@dowjones.com>
+		
+	• TODAY
+		• TASKS
+		• Article Pgm - Weekly Planning Session
+			
+		
+10:00AM
+
+	• [TASK] Create Mobile Confluence Page. (https://openedx.atlassian.net/wiki/spaces/BPL/pages/2594439653/Mobile+App+Design+Guidelines)
+		• Copy pasted reference page, edited to bring more context
+		• Shared a comment for Paul to get his A11y input on page
+
+
+12:00PM
+
+	• Met with Amy on pesky 226px wide components.
+		– We believe this is a misunderstanding on Dre's part, combined with the 12 column grid NK provided.
+		– Communicated that NK standards are 320px wide.
+		– Amy setup a meeting tomorrow with Dre on min-width concept, expand to row if component below. See if we're good.
+			• Amy says Dre is excited!
+		
+12:30PM 
+	
+	• Played with columns and made examples in Figma to account for min-width
+	
+1:30 - 2:00PM
+
+	• MEETING "Article Pgm - Weekly Planning Session"
+		– Need a few slides to show to Sharon, high-level on Article project. 
+		– Tina says she could dig up a few things. Short.
+	
+2:00PM
+	• Sharon asks for link to deck about token ownership for PCX Mobile 'Next Gen' project. She's talking to Clarence now.
+	
+2:30PM
+	• [MEETING] 'Discuss 226px component'
+		• Tina asks to be invited to meeting with Dre, Amy & myself [DONE]
+		• Tina asks to reach out to Mike Messina on tips/tricks for nested grids we may use (if Dre needs a 226px) [DONE]
+			– Sent email to Mike, with a video attached for background
+			
+3:00PM 
+
+• Created video for Mike Messina, upload to YouTube, cc'd Tina
+
+		
+4:00PM
+
+• [TASK] • Create Mobile Confluence Page. (https://openedx.atlassian.net/wiki/spaces/BPL/pages/2594439653/Mobile+App+Design+Guidelines) [IN-PROGRES]
+
+	
+
+				
+				
