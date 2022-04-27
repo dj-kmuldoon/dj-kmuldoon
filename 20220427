@@ -1,0 +1,48 @@
+~ TODAYS TASKS
+	• [TASK] • Create Mobile Confluence Page. (https://openedx.atlassian.net/wiki/spaces/BPL/pages/2594439653/Mobile+App+Design+Guidelines) [IN-PROGRES]
+	• [TASK] – "It looks like your The Strongest Link training still hasn’t been completed."
+	• [TASK] – "It looks like your News Corp Global Compliance Training training still hasn’t been completed."
+
+ ~ BACKLOG
+	• Fill out deck with color ramps (Mobile Steering Committe, deeper dive into process!)  
+	• [TASK-INSERT] Play with Confluence, create pages (for mobile), take notes, make comments
+   	• Create Share video of responsive behavior with "Text Cropper" plugin [IN-PROGRESS]
+  	• Theme Swapper not working [TBD]
+	• TASK: Create workflow for UDS. Start to finish, approval processes. Documentation. Releases, updates.
+	• TASK: Color normalization for Remaining brands (meaningfully weighted)
+	• TASK: Peek under the hood of NewsKit Web. NewsKit Web is available as npm/yarn install.
+
+9:00AM
+	• Reached out to NewsKit to follow up on 226px minimum width (it's causing addt'l work for Amy)
+		– RESPONSE: "Hi Kevin, where are you seeing a min width of 226px?  The smallest breakpoint size we cater for is 320px in our layout and grids" - James Newson
+	• Chatted with Luke Finch. ABSOLUTELY NO PROBLEM with Semantic variables for colors. 
+
+9:15AM - 9:30AM
+	• STANDUP
+	
+	• YESTERDAY
+
+    • Shared video describing concept of max-content width
+    • Shared video on 'Sign-up' comp challenges in <300px
+    • Created multiple layouts describing max-width-content concept.
+    • Many meetings and discussions on grids/layout.
+		
+	• TODAY
+		• ~TASKS~
+		• MEETING: "NewsKit Design System - Design drop in clinic"
+		• MEETING: "Grid Talk"			
+		
+10:00AM
+
+	• MEETING: "NewsKit Design System - Design drop in clinic"
+	
+11:00AM	
+	
+• Shared video describing concept of max-content width
+• Shared video on 'Sign-up' comp challenges in <300px
+• Created multiple layouts describing max-width-content concept.
+• Many meetings and discussions on grids/layout.
+	
+
+				
+				
