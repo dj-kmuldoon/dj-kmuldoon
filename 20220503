@@ -12,49 +12,57 @@
 	• TASK: Color normalization for Remaining brands (meaningfully weighted)
 	• TASK: Peek under the hood of NewsKit Web. NewsKit Web is available as npm/yarn install.
 
-9:00AM
-	• Shared grid discoveries with Amy, Dre via Video. A neat plugin 'Responsively' handles responsive automagically in Figma.
-  • Shared grid discoveries with Mike Messina
-    – He responds with a video (engineering focused rather than Figma)
+8:30AM
+	• May have discovered an issue with Medium grid layout not showing advertisments in new design.
+		– IMPACT: Loss of expected ad revenue.
 
 9:30AM - 9:45AM
+
 • MEETING – STANDUP	
 
 	• YESTERDAY
-  		• Met with Surendar briefly on color systems
-		• [MEETING] Next Gen Full Team Demo Day (30m)
-		• [MEETING] Article & Mobile Demo Day (1hr)
-		• Did work on Documentation of Grids, Shared video of WSJ home page treatment.
+  		• [MEETING] NextGen Mobile Design Review (1.5hrs)
+			– Ziya seems interested in UDS helping with common patterns for mobile/web structure and grids.
+		• Tina wants me to investigate AirTable as a data backend API
+		• Meeting on documentation for components format
+		• Griddles!
+			– Suren to continue investigations
+			– I will look into articles.
+			– Amy to take current grids and apply new article design (DONE)
+		
 	• TODAY
 		• CONTINUE [TASK] – Document Grids (Flex vs. Static columns)
 			– Compare other brands for breakpoints on home page treatment.
 			– Examine Article page treatment for differences (if any)
 		• Meetings 	
+			[MEETING]: NewsKit Design System Drop in clinic
+			[MEETING]: Grid Plan
+			[MEETING]: Color Stuff w/ Suren
+			[MEETING] JIRA Requirments.
+
+		
 	• BLOCKERS
 		• NONE
+		
+10:00 - 11:00AM
 
+	[MEETING]: NewsKit Design System Drop in clinic
+	
+11:30 - 12:30AM
 
-10:30AM
-  • [TASK] – Document Grids (Flex vs. Static columns)
-	– Shared early work and discoveries.
+	[MEETING]: Grid Plan
 	
-	
-11:30AM
-	• MEETING - Suren on Grids (expanded to other team members)
-	
-12:00PM
-	• Continued on Doc Grids
-	
-2:00PM	
+2:00PM – 3:00PM
 
-	• MEETING Doc Grids.
+	[MEETING]: Color Stuff w/ Suren
 	
-3:00PM
+3:00-4:00PM	
+	[MEETING] JIRA Requirments.
+	
+	
+	
+	
 
-	• Continue Doc Grids.
-	
-	
-	
 
 
 
