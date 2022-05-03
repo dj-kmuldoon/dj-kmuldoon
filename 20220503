@@ -1,6 +1,6 @@
 ~ TODAYS TASKS
-  • [TASK] – Document Grids (Flex vs. Static columns)
-  • [TASK/INSERT] – AirTable Integration (https://flaviocopes.com/airtable/)
+  • [TASK] – Document Grids (Flex vs. Static columns) [Hand-off to Suren]
+  • [TASK] – AirTable Integration (https://flaviocopes.com/airtable/) [IN-PROGRESS]
 
  ~ BACKLOG
 	• [TASK] • Create Mobile Confluence Page. (https://openedx.atlassian.net/wiki/spaces/BPL/pages/2594439653/Mobile+App+Design+Guidelines) [IN-PROGRES]
@@ -21,6 +21,8 @@
 • MEETING – STANDUP	
 
 	• YESTERDAY
+		• Tina says she'll ask to have remote work language added to your offer letter
+
   		• [MEETING] NextGen Mobile Design Review (1.5hrs)
 			– Ziya seems interested in UDS helping with common patterns for mobile/web structure and grids.
 		• Tina wants me to investigate AirTable as a data backend API
@@ -50,7 +52,14 @@
 	
 11:30 - 12:30AM
 
-	[MEETING]: Grid Plan
+	[MEETING]: Grid Plan 
+		– Suren takes lead on research/documentation of existing grids
+		– Amy to double-check with Dre on MEDIUM 12U presentation of right rail ads, new Article layout
+
+1:00PM
+  • [TASK] – AirTable Integration 
+	– https://flaviocopes.com/airtable/
+	– https://www.figma.com/community/plugin/741940457537193498/Airtable-to-Figma
 	
 2:00PM – 3:00PM
 
