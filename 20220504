@@ -1,0 +1,67 @@
+~ TODAYS TASKS
+  • [ACTION] Follow up with Adam Bedell on Designer Review Process
+  • [TASK] – AirTable Integration (https://flaviocopes.com/airtable/) [IN-PROGRESS]
+
+ ~ BACKLOG
+	• [TASK] • Create Mobile Confluence Page. (https://openedx.atlassian.net/wiki/spaces/BPL/pages/2594439653/Mobile+App+Design+Guidelines) [IN-PROGRES]
+	• Fill out deck with color ramps (Mobile Steering Committe, deeper dive into process!)  
+	• [TASK-INSERT] Play with Confluence, create pages (for mobile), take notes, make comments
+   	• Create Share video of responsive behavior with "Text Cropper" plugin [IN-PROGRESS]
+  	• Theme Swapper not working [TBD]
+	• TASK: Create workflow for UDS. Start to finish, approval processes. Documentation. Releases, updates.
+	• TASK: Color normalization for Remaining brands (meaningfully weighted)
+	• TASK: Peek under the hood of NewsKit Web. NewsKit Web is available as npm/yarn install.
+
+9:00AM - 10:00AM
+	• [MEETING] "Monthly Experience Meeting"
+
+9:30AM - 9:45AM
+
+• MEETING – STANDUP	
+
+	• YESTERDAY
+    • TASK HANDOFF TO SUREN => "Document Grids (Flex vs. Static columns)"
+    
+		• [MEETING]: Grid Plan
+      – Amy to double-check with Dre on MEDIUM 12U presentation of right rail ads, new Article layout
+      
+		• [MEETING]: Color Stuff w/ Suren
+      – Gave Suren a deeper dive into color system inner workings. 
+      – How we can use it to unifiy all brands in DJ in a common color system
+      – Why we need more than 4 colors for colors
+      
+		• [MEETING] JIRA Requirments.
+    		– Discussion on A11y review process
+    		– Adam says he's only a few weeks away from production (everyone excited).
+    		– Q: Have we considered all the components in all varients as UDS has defined in Figma in CODE?, A: Just Dow Jones, only the 300px wide version.
+      
+    • [TASK] – AirTable Integration [IN-PROGRESS]
+      	– https://flaviocopes.com/airtable/
+      	– https://www.figma.com/community/plugin/741940457537193498/Airtable-to-Figma
+      	– https://airtable.com/shr0hyEnBae0AKKfQ/tblYDyJ2srBKB1Wr9    
+		
+	• TODAY
+      • [ACTION] Follow up with Adam Bedell on Designer Review Process
+      • [TASK] – AirTable Integration (https://flaviocopes.com/airtable/) [IN-PROGRESS]
+      • [MEETING] Grids again! (30m)
+      • [MEETING] Design System - Cross Brand (30m)
+      
+	• BLOCKERS
+		• NONE
+		
+10:00 - 10:30AM
+
+• [MEETING] Grids again! (30m)
+
+10:00 - 10:30AM
+
+• [MEETING] Design System - Cross Brand (30m)
+
+
+	
+	
+	
+	
+
+
+
