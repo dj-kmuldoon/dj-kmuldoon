@@ -1,7 +1,6 @@
 ~ TODAYS TASKS
   • [TASK] Confluence Documentation for Unified Grid System
 
-
  ~ BACKLOG
 	• [TASK] Standardized Naming Conventions
 	• [TASK] Mobile engineering communication [BLOCKED] 
@@ -15,7 +14,9 @@
 	• TASK: Peek under the hood of NewsKit Web. NewsKit Web is available as npm/yarn install.
 
 8:00AM
-	Emails, Slacks, Research
+
+• Emails, Slacks, Research
+• [TASK] Confluence Documentation for Unified Grid System [IN-PROGRESS]
 
 9:30AM - 9:45AM
 
@@ -23,52 +24,41 @@
 
 	• YESTERDAY
 
-	      	• [MEETING] UDS/Developer Handoff Process w/Adam Bedell [CANCELLED]
-	        • [MEETING] Chat Time For Process Nerds
-	      	• [MEETING] Unified Design System
-	      	• [MEETING] NextGen Full Team
-	      	• [MEETING] Article & Mobile Demos
-		
-		• Proposed creating a Confluence board where we can collect all grid discoveries into single document
-		• Posted video describing how we should present grids in Figma, more closely match WSJ Production (differences in Figma/Production)
-
-	• TODAY
 		• [TASK] Confluence Documentation for Unified Grid System [IN-PROGRESS]
 	      	• [MEETING] UDS/Developer Handoff Process w/Adam Bedell [CANCELLED]
 		• [MEETING] Article Pgm - Weekly Planning Session
-		
+		• [MEETING] Dre wants to know process and areas of responsibility
+		• [MEETING] JIRA status options (30m)
+		• [MEETING] UDS/Developer Handoff Process w/Adam Bedell [CANCELLED]
+		• [MEETING] Intro & Grids w/Min (30m)
+
+	• TODAY
+	
+		• [TASK] Confluence Documentation for Unified Grid System
+		• [MEETING] NewsKit Design System - Design drop in clinic (1hr)
+			
 	• BLOCKERS
+	
 		• [TASK] Mobile engineering communication [BLOCKED]
 		
+
 10:00AM
+• [MEETING] NewsKit Design System - Design drop in clinic (1hr)
 
+11:00AM
   • [TASK] Confluence Documentation for Unified Grid System
 
-
-1:00PM
-	• [MEETING] Article Pgm - Weekly Planning Session
-		– Reach out to Viktor about grids
-			• Vik says Min working on that – Reached out to Min on Slack. Meeting scheduled
-
-1:30PM
-	• [MEETING] Dre wants to know process and areas of responsibility
-		– Not sure we answered that (But common theme to Vincents ask)
-
-2:00 PM
-	• [MEETING] UDS/Developer Handoff Process w/Adam Bedell [CANCELLED]
-		– Adam VERY BusY!
+2:20PM
+• [MEETING] Grid/Breakpoints Discussion
+	– Paul and Min liked! 
+	– We are aligned, on an organizational level on Grids! Win!
 	
-3:00PM
-	• [MEETING] JIRA status options (30m)
-		– LOOKS GOOD!
-	
-3:30PM
+3:00PM	
+• [TASK] Confluence Documentation for Unified Grid System
+	– Reasons for Static vs. Flexible Grids.
 
-  • [TASK] Confluence Documentation for Unified Grid System
 
-	
-4:30 PM
-	• [MEETING] Intro & Grids w/Min (30m)
+
 
 
 		
