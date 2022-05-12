@@ -1,8 +1,8 @@
 ~ TODAYS TASKS
-  • [TASK] Confluence Documentation for Unified Grid System
-  ––
   • [TASK] Pro/cons of new Figma vs. Text Cropper, documentation...
   	– Text truncation.
+  • [TASK] Confluence Documentation for Unified Grid System [DONE]
+
 
  ~ BACKLOG
 	• [TASK] Standardized Naming Conventions
@@ -26,15 +26,23 @@
 • MEETING – STANDUP	
 
 	• YESTERDAY
+	
+		• [TASK] Confluence Documentation for Unified Grid System [DONE TODAY]
+		• [MEETING] Design System - Cross Brand
+		• [MEETING] Amy (Grids)
+		• [MEETING] Suren (Grids)
+		• [MEETING] Kevin / Tina
 
-		• [TASK] Confluence Documentation for Unified Grid System
-		• [MEETING] NewsKit Design System - Design drop in clinic (1hr)
 
 	• TODAY
 	
-		• [TASK] Confluence Documentation for Unified Grid System
-		• [MEETING] NewsKit Design System - Design drop in clinic (1hr)
-		• [MEETING] Grid/Breakpoints Discussion
+		• [TASK] Pro/cons of new Figma vs. Text Cropper, documentation... – Text truncation.
+		• [MEETING] PCX Process update (1hr)
+		• [MEETING] TOUCHBASE WEEKLY (Kevin & Amy) (15m)
+		• [MEETING] Article Release Plan - Development Working Session (30m)
+		• [MEETING] component props team meeting (30m)
+		• [MEETING] Developer Handoff Process Touch-base (1hr)
+		
 			
 
 	• BLOCKERS
@@ -43,8 +51,21 @@
 		
 
 10:00AM
-• Meets with Amy, Suren on Grids and Documentation
-• Continued documentation on Grids. Ad sizes included. Asked Gab to review.
+• [MEETING] PCX Process update (1hr)
+
+11:00AM
+• [MEETING] TOUCHBASE WEEKLY (Kevin & Amy) (15m)
+	– Sent Amy a list of all categories of Design Tokens, suggest those are priorities (for prioritization)
+
+12:00PM
+• Ask to align JIRA ticket specs with documentation. https://dowjones.atlassian.net/browse/DSP-28
+
+2:00PM
+• [MEETING] Article Release Plan - Development Working Session (30m)
+
+3:00PM
+• [MEETING] Developer Handoff Process Touch-base (1hr)
+
 
 
 
