@@ -3,8 +3,11 @@
   	– Text truncation.
   • [TASK] Confluence Documentation for Unified Grid System [DONE]
 
+~ NEAR BACKLOG
+	 • "Config 2022 Building a Design System using Figma & Sanity Headless CMS to Document It (Community)" [TASK] https://www.figma.com/file/oICXZP1tmysbWSHEjtyD8x/Config-2022-Building-a-Design-System-using-Figma-%26-Sanity-Headless-CMS-to-Document-It-(Community)?node-id=0%3A1
 
  ~ BACKLOG
+
 	• [TASK] Standardized Naming Conventions
 	• [TASK] Mobile engineering communication [BLOCKED] 
 	• [TASK] • Create Mobile Confluence Page. (https://openedx.atlassian.net/wiki/spaces/BPL/pages/2594439653/Mobile+App+Design+Guidelines) [IN-PROGRES]
@@ -51,20 +54,39 @@
 		
 
 10:00AM
-• [MEETING] PCX Process update (1hr)
+• [MEETING] PCX Process update (30m)
 
 11:00AM
 • [MEETING] TOUCHBASE WEEKLY (Kevin & Amy) (15m)
 	– Sent Amy a list of all categories of Design Tokens, suggest those are priorities (for prioritization)
+	
+• Slack to Adam Bedell about Storybook link 'Sign-up' component.
+	- 2:23PM Adam replies but seems he doesn't understand. Busy, I'm sure.
 
 12:00PM
 • Ask to align JIRA ticket specs with documentation. https://dowjones.atlassian.net/browse/DSP-28
 
-2:00PM
+1:00M
 • [MEETING] Article Release Plan - Development Working Session (30m)
+	– A lot of churn. Bounced early. 
+	
+• Tina embeds Figma doc into Confluence. 	
+
+2:00PM
+• [MEETING] component props team meeting (30m)
+	– Amy found the solution for 'Reversed Components'. Not sure why it happened.
 
 3:00PM
-• [MEETING] Developer Handoff Process Touch-base (1hr)
+• [MEETING] Developer Handoff Process Touch-base (1hr) [CANCELLED]
+	– Production issues
+	
+• Slack to Adam Bedell to clarify 'Sign-up' component. 
+	– "OK, this is the component I was talking about. As I remember, you had built this in code, shared in meetings, sent a link to a Storybook to demo.
+Screen Shot 2022-05-12 at 3.11.03 PM.png "
+
+• Created Prevew Page for "Grids & Breakpoints). https://www.figma.com/file/FnPGOgg9r6U39m5gkDQbR1/Grids-%26-Breakpoints-(WIP)?node-id=2%3A17
+	
+	
 
 
 
