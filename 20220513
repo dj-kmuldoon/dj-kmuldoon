@@ -1,12 +1,11 @@
 ~ TODAYS TASKS
   • [TASK] Pro/cons of new Figma vs. Text Cropper, documentation...
   	– Text truncation.
-  • [TASK] Confluence Documentation for Unified Grid System [DONE]
 
 ~ NEAR BACKLOG
 	 • "Config 2022 Building a Design System using Figma & Sanity Headless CMS to Document It (Community)" [TASK] https://www.figma.com/file/oICXZP1tmysbWSHEjtyD8x/Config-2022-Building-a-Design-System-using-Figma-%26-Sanity-Headless-CMS-to-Document-It-(Community)?node-id=0%3A1
 
- ~ BACKLOG
+ ~ FAR BACKLOG
 
 	• [TASK] Standardized Naming Conventions
 	• [TASK] Mobile engineering communication [BLOCKED] 
@@ -21,76 +20,58 @@
 
 8:00AM
 
-• Emails, Slacks, Research
-• [TASK] Confluence Documentation for Unified Grid System [IN-PROGRESS]
+• Emails, Slacks
+• [TASK] Pro/cons of new Figma vs. Text Cropper, documentation...
 
-9:30AM - 9:45AM
+9:30AM - 9:45AM (ASYNC ON SLACK)
 
 • MEETING – STANDUP	
 
 	• YESTERDAY
-	
-		• [TASK] Confluence Documentation for Unified Grid System [DONE TODAY]
-		• [MEETING] Design System - Cross Brand
-		• [MEETING] Amy (Grids)
-		• [MEETING] Suren (Grids)
-		• [MEETING] Kevin / Tina
-
-
-	• TODAY
 	
 		• [TASK] Pro/cons of new Figma vs. Text Cropper, documentation... – Text truncation.
 		• [MEETING] PCX Process update (1hr)
 		• [MEETING] TOUCHBASE WEEKLY (Kevin & Amy) (15m)
 		• [MEETING] Article Release Plan - Development Working Session (30m)
 		• [MEETING] component props team meeting (30m)
-		• [MEETING] Developer Handoff Process Touch-base (1hr)
+		• [MEETING] Developer Handoff Process Touch-base (CANCELLED)
+		
+		• Slack to Adam Bedell about Storybook link 'Sign-up' component.
+			– Still waiting
+		• Sent Amy a list of all categories of Design Tokens, suggest those are priorities (for prioritization)
+		• Created Prevew Page for "Grids & Breakpoints)
+
+	• TODAY
+	
+		• [TASK] Pro/cons of new Figma vs. Text Cropper, documentation... – Text truncation.
+		• [MEETING] Unified Design System
+		• [MEETING] Next Gen Full Team Demo Day
+		• [MEETING] The Optional Hupe/Curtis/Mall - chat about design systems
+		• [MEETING] Article & Mobile Demo Day
+		• [MEETING] Developer Handoff Process Touch-base
 
 	• BLOCKERS
 	
 		• [TASK] Mobile engineering communication [BLOCKED]
-		
 
-10:00AM
-• [MEETING] PCX Process update (30m)
+9:00
+• [TASK] Pro/cons of new Figma vs. Text Cropper, documentation...
 
-11:00AM
-• [MEETING] TOUCHBASE WEEKLY (Kevin & Amy) (15m)
-	– Sent Amy a list of all categories of Design Tokens, suggest those are priorities (for prioritization)
-	
-• Slack to Adam Bedell about Storybook link 'Sign-up' component.
-	- 2:23PM Adam replies but seems he doesn't understand. Busy, I'm sure.
+10:30AM
+• [MEETING] Unified Design System (30m)
+
+11:00M
+• [MEETING] Next Gen Full Team Demo Day (30m)
 
 12:00PM
-• Ask to align JIRA ticket specs with documentation. https://dowjones.atlassian.net/browse/DSP-28
+• [MEETING] The Optional Hupe/Curtis/Mall - chat about design systems (30m)
 
-1:00M
-• [MEETING] Article Release Plan - Development Working Session (30m)
-	– A lot of churn. Bounced early. 
-	
-• Tina embeds Figma doc into Confluence. 	
+12:30PM
+• [MEETING] Article & Mobile Demo Day (1h)
 
 2:00PM
-• [MEETING] component props team meeting (30m)
-	– Amy found the solution for 'Reversed Components'. Not sure why it happened.
-
-3:00PM
-• [MEETING] Developer Handoff Process Touch-base (1hr) [CANCELLED]
-	– Production issues
-	
-• Slack to Adam Bedell to clarify 'Sign-up' component. 
-	– "OK, this is the component I was talking about. As I remember, you had built this in code, shared in meetings, sent a link to a Storybook to demo.
-Screen Shot 2022-05-12 at 3.11.03 PM.png "
-
-• Created Prevew Page for "Grids & Breakpoints). https://www.figma.com/file/FnPGOgg9r6U39m5gkDQbR1/Grids-%26-Breakpoints-(WIP)?node-id=2%3A17
-• SLACK: @tina.nixon Can I get access to the Figma->Confluence plugin for Confluence? Just want to update the preview I'm thinking.
-
-  • [TASK] Pro/cons of new Figma vs. Text Cropper, documentation [IN PROGRESS]
-	– https://www.figma.com/file/npsq6O5OsJ0DRVsCFR3rQa/Text-Crop-vs.-Figma-AutoLayout?node-id=401%3A61344	
+• [MEETING] Developer Handoff Process Touch-base (30m)
 
 
-
-
-
-
+		
 		
