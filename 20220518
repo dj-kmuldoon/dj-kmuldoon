@@ -2,6 +2,8 @@
 • [TASK] 970px wide ads in 12col Grids [DONE]
 
 ~ NEAR BACKLOG
+	
+	• [TASK] Mobile engineering communication [BLOCKED]	
   • [TASK] Pro/cons of new Figma vs. Text Cropper, documentation... [IN PROGRESS]
   	– Text truncation.
   • [TASK] Double-check NewsKit color weights for accuracy in genome color system [DONE]
@@ -43,8 +45,7 @@
 		• [MEETING] Working Session: Theme swapper (1hr)
 
 	• BLOCKERS
-	
-		• [TASK] Mobile engineering communication [BLOCKED]				
+		NONE			
 
 10PM
 • [TASK] 970px wide ads in 12col Grids
@@ -54,6 +55,7 @@ NOTES:
 
 Good meet on Design System Deep Dive. Like the Typography angle for name of DS Team
 Theme swapper is problematic for access to GitHub. Will work with Amy to figure out why/how this happened. And, get a tech solution to remove this friction.
+Removed Blocker '• [TASK] Mobile engineering communication [BLOCKED]', placed in near backlog
 
 
 
